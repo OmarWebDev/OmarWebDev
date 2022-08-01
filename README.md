@@ -11,9 +11,9 @@
 
 - I am a full-stack web developer with a passion for creating beautiful and functional websites.
 - I have a background in computer science and a passion for learning new technologies.
-- I am currently working as a full-stack web developer at Merodev.
+- I am currently working as a full-stack web developer at [Merodev](https://merodev.com).
 - I am a self-taught developer and I am always looking to learn new things.
-- How to reach me **omar.dev.work@outlook.com**
+- How to reach me **omar.khaled@merodev.com**
 
 ## 🎈 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,materialui,sass,js,ts,php,laravel,mysql,redux,bash,git,github,netlify,idea,vscode,)](https://skillicons.dev)
