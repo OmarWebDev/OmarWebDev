@@ -16,7 +16,7 @@
 - How to reach me **omar.khaled@merodev.com**
 
 ## 🎈 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,materialui,sass,js,ts,php,laravel,mysql,redux,bash,git,github,netlify,idea,vscode,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,react,materialui,sass,js,ts,php,laravel,mysql,redux,bash,git,github,netlify,idea,vscode)
 
 ## 📊 GitHub Stats:
 
