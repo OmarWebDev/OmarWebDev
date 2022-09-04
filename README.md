@@ -25,7 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarWebDev&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarWebDev&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarWebDev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarWebDev&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarWebDev&theme=github_dark&utcOffset=2)
 ![Omar's Stats](https://github-readme-stats.vercel.app/api?username=OmarWebDev&show_icons=true&theme=github_dark)
 
 ## 🐍 Snake Stats:
