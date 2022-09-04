@@ -1,7 +1,9 @@
 <h2 align="center">Welcome, I am Omar Khaled</h2>
-<p align="center">Full-stack Web Developer | React.js | Laravel</p>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Typescript+Developer;Javascript+Developer&center=true&width=380&height=45"></a>
+</p>
 
-<span> <img src="https://komarev.com/ghpvc/?username=omarwebdev&label=Profile%20views&color=22942c&style=flat" alt="Profile Views" /> </span>
+![profile views](https://komarev.com/ghpvc/?username=omarwebdev&style=for-the-badge)
 
 
 ## 🏆Trophies:
@@ -18,11 +20,13 @@
 ## 🎈 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,react,materialui,sass,js,ts,php,laravel,mysql,redux,bash,git,github,netlify,idea,vscode)
 
-## 📊 GitHub Stats:
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=OmarWebDev&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OmarWebDev&theme=react&hide_border=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWebDev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarWebDev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarWebDev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarWebDev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarWebDev&theme=github_dark&utcOffset=8)
+![Omar's Stats](https://github-readme-stats.vercel.app/api?username=OmarWebDev&show_icons=true&theme=github_dark)
 
 ## 🐍 Snake Stats:
 <div align="center">
