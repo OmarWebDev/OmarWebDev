@@ -1,6 +1,6 @@
 <h2 align="center">Welcome, I am Omar Khaled</h2>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Typescript+Developer;Javascript+Developer&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;TypeScript+Developer;JavaScript+Developer&center=true&width=380&height=45"></a>
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=omarwebdev&style=for-the-badge)
@@ -13,7 +13,7 @@
 
 - I am a full-stack web developer with a passion for creating beautiful and functional websites.
 - I have a background in computer science and a passion for learning new technologies.
-- I am currently working as a full-stack web developer at [Merodev](https://merodev.com).
+- I am currently working as a full-stack web developer at [Mero Dev software Co. MDS](https://merodev.com).
 - I am a self-taught developer and I am always looking to learn new things.
 - How to reach me **omar.khaled@merodev.com**
 
