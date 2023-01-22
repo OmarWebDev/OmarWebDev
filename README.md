@@ -15,7 +15,7 @@
 - I have a background in computer science and a passion for learning new technologies.
 - I am currently working as a full-stack web developer at [Mero Dev software Co. MDS](https://merodev.com).
 - I am a self-taught developer and I am always looking to learn new things.
-- How to reach me **omar.khaled@merodev.com**
+- How to reach me **omar.dev.work@outlook.com**
 
 ## 🎈 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,react,materialui,sass,js,ts,php,laravel,mysql,redux,bash,git,github,netlify,idea,vscode)
